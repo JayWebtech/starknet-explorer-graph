@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://starknet-explorer-graph.vercel.app",
+    url: "https://starknet-graph-explorer.vercel.app",
     title: "Starknet Transaction Explorer",
     description: "Visualize wallet transactions in an interactive graph on Starknet. Explore transaction flows, connections, and patterns with our intuitive transaction explorer.",
     siteName: "Starknet Transaction Explorer",
